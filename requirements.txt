@@ -1,5 +1,5 @@
 
- pyspark==3.5.1
+pyspark==3.5.1
 pandas==2.2.0
 jupyter==1.0.0
 python-dotenv==1.0.0
